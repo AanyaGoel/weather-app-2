@@ -1,5 +1,5 @@
 const weatherApi = "https://api.open-meteo.com/v1/forecast"; 
-const ipAddApi = "http://ip-api.com/json/";
+const ipAddApi = "https://members.ip-api.com/";
 const newLocationUrl ="https://geocoding-api.open-meteo.com/v1/search";
 const timezoneApi = "http://api.geonames.org/timezoneJSON?" ;
 
